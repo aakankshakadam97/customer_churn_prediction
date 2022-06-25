@@ -1,2 +1,2 @@
-# customer_churn_prediction
+# Customer_churn_prediction
 This repository contains demonstration notebook for customer churn prediction
